@@ -1,0 +1,14 @@
+C:\Users\eduyk\source\repos\Recuperatorio_1er_Parcial_Despues\obj\Debug\net8.0\Recuperatorio_1er_Parcial_Despues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduyk\source\repos\Recuperatorio_1er_Parcial_Despues\obj\Debug\net8.0\Recuperatorio_1er_Parcial_Despues.AssemblyInfoInputs.cache
+C:\Users\eduyk\source\repos\Recuperatorio_1er_Parcial_Despues\obj\Debug\net8.0\Recuperatorio_1er_Parcial_Despues.AssemblyInfo.cs
+C:\Users\eduyk\source\repos\Recuperatorio_1er_Parcial_Despues\obj\Debug\net8.0\Recuperatorio_1er_Parcial_Despues.csproj.CoreCompileInputs.cache
+C:\Users\eduyk\source\repos\Recuperatorio_1er_Parcial_Despues\bin\Debug\net8.0\Recuperatorio_1er_Parcial_Despues.exe
+C:\Users\eduyk\source\repos\Recuperatorio_1er_Parcial_Despues\bin\Debug\net8.0\Recuperatorio_1er_Parcial_Despues.deps.json
+C:\Users\eduyk\source\repos\Recuperatorio_1er_Parcial_Despues\bin\Debug\net8.0\Recuperatorio_1er_Parcial_Despues.runtimeconfig.json
+C:\Users\eduyk\source\repos\Recuperatorio_1er_Parcial_Despues\bin\Debug\net8.0\Recuperatorio_1er_Parcial_Despues.dll
+C:\Users\eduyk\source\repos\Recuperatorio_1er_Parcial_Despues\bin\Debug\net8.0\Recuperatorio_1er_Parcial_Despues.pdb
+C:\Users\eduyk\source\repos\Recuperatorio_1er_Parcial_Despues\obj\Debug\net8.0\Recuperatorio_1er_Parcial_Despues.dll
+C:\Users\eduyk\source\repos\Recuperatorio_1er_Parcial_Despues\obj\Debug\net8.0\refint\Recuperatorio_1er_Parcial_Despues.dll
+C:\Users\eduyk\source\repos\Recuperatorio_1er_Parcial_Despues\obj\Debug\net8.0\Recuperatorio_1er_Parcial_Despues.pdb
+C:\Users\eduyk\source\repos\Recuperatorio_1er_Parcial_Despues\obj\Debug\net8.0\Recuperatorio_1er_Parcial_Despues.genruntimeconfig.cache
+C:\Users\eduyk\source\repos\Recuperatorio_1er_Parcial_Despues\obj\Debug\net8.0\ref\Recuperatorio_1er_Parcial_Despues.dll
